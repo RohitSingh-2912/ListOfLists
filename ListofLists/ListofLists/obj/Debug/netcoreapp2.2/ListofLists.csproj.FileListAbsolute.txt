@@ -1,0 +1,11 @@
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\bin\Debug\netcoreapp2.2\ListofLists.deps.json
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\bin\Debug\netcoreapp2.2\ListofLists.runtimeconfig.json
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\bin\Debug\netcoreapp2.2\ListofLists.runtimeconfig.dev.json
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\bin\Debug\netcoreapp2.2\ListofLists.dll
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\bin\Debug\netcoreapp2.2\ListofLists.pdb
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\obj\Debug\netcoreapp2.2\ListofLists.csprojAssemblyReference.cache
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\obj\Debug\netcoreapp2.2\ListofLists.csproj.CoreCompileInputs.cache
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\obj\Debug\netcoreapp2.2\ListofLists.AssemblyInfoInputs.cache
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\obj\Debug\netcoreapp2.2\ListofLists.AssemblyInfo.cs
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\obj\Debug\netcoreapp2.2\ListofLists.dll
+C:\Users\RohitS\source\repos\ListofLists\ListofLists\obj\Debug\netcoreapp2.2\ListofLists.pdb
